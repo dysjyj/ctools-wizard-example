@@ -1,5 +1,19 @@
 <?php
 
+/**
+ * @file
+ *   An example module demonstrating the CTools multistep form wizard
+ *
+ * @note
+ *   For Capital Camp 2014
+ *   Jeremy Gottwig & Miro Scarfiotti
+ *   RepEquity
+ *
+ * @see
+ *   Full module available at:
+ *   https://github.com/jgottwig/ctools-wizard-example
+ */
+
 define('OBJECT_ID', 1);            // Make it easier to identify object by defining ID here
 
 /**
