@@ -1,0 +1,4 @@
+name = Multiform
+description = An example module demonstrating CTools Multipage Wizard
+package = Example
+dependencies[] = ctools
